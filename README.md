@@ -1,3 +1,3 @@
 # Zomato Bengaluru Restaurants
 
-![Zomato_Logo]{}
+![Zomato_Logo]{https://github.com/ch-suresh82/Zomato_Restaurants/blob/main/Zomato-Logo.png}
